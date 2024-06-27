@@ -3,5 +3,5 @@
         {{$title}}
     </x-slot:title>
     
-    <h3 class="text-xl">Ini adalah Halaman Home</h3>
+    <h3 class="text-xl">Ini adalah Halaman Contact</h3>
 </x-layout>
